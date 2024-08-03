@@ -11,7 +11,6 @@
 
 - 🤝 I’m looking for help with [Fern Reporter](https://github.com/guidewire-oss/fern-reporter)
 
-- 📫 How to reach me **test@test.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
