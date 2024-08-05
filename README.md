@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anoop2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoop2811" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anoop2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoop2811" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anoop2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anoop2811" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anoopgopalakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anoopgopalakrishnan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2149007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anoop2811" height="30" width="40" /></a>
 <a href="https://medium.com/@anoop2811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anoop2811" height="30" width="40" /></a>
 </p>
 
